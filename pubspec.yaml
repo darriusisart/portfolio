@@ -1,0 +1,38 @@
+name: portfolio
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.8.0
+  url_launcher: ^6.3.1
+  p5: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/icons/blender_logo.png
+    - assets/icons/c#_logo.png
+    - assets/icons/C++_logo.png
+    - assets/icons/flutter_logo.png
+    - assets/icons/html_css_js_logo.png
+    - assets/icons/OpenGL_logo.png
+    - assets/icons/shaderlanguages_logo.png
+    - assets/icons/unreal_logo.png
+    - assets/icons/unity_logo.png
+    - assets/images/sud_enforcer.png
+    - assets/images/hide_and_hue.png
+    - assets/images/chaos_battery.png
+    - assets/images/heart_transplant.png
+    - assets/images/Darrius.png
+    - assets/images/AstroUUber.png
